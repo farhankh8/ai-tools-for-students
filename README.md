@@ -20,6 +20,7 @@ Curated by a final-year BCA student, for students. No fluff, no affiliate links 
 | [Microsoft Copilot](https://copilot.microsoft.com) | Free GPT-class chat with image generation included | Free |
 | [DeepSeek](https://chat.deepseek.com) | Powerful open-source chatbot, completely free tier | Free |
 | [Poe](https://poe.com) | Try dozens of models (GPT, Claude, Llama) in one place | Freemium |
+| [StudyArena](https://studyarena.com) | Compare three anonymous AI answers, vote, then reveal the models | Free |
 
 ## 📝 Notes & Lectures
 
