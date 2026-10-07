@@ -31,6 +31,7 @@ Curated by a final-year BCA student, for students. No fluff, no affiliate links 
 | [Obsidian](https://obsidian.md) | Linked note-taking that lives on your own device | Free |
 | [TurboLearn](https://turbolearn.ai) | Turns lecture recordings into structured notes & flashcards | Freemium |
 | [Speechnotes](https://speechnotes.co) | Fast voice-to-text for dictating assignments | Free |
+| [SummarizAI](https://summarizai.ink) | Summarizes YouTube lectures on the page, with chapters, chat and flashcards | Freemium |
 
 ## 🔬 Research & Papers
 
